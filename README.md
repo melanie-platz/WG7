@@ -16,7 +16,7 @@ healthcare on the planet? How can related technology be better utilised (spin-of
 
 1. Source about the Problem Statement to introduce Key Questions (1) and (2)
 WHO - Environmental health in emergencies
-http://www.who.int/environmental_health_emergencies/en/
+[http://www.who.int/environmental_health_emergencies/en/]
 (Comment: Please read through the information on this page by following the links)
 2. Source about the Problem Statement to introduce Key Question (3)
 ESA - Spin-offs: when space tech falls to Earth (https://www.epo.org/news-issues/technology/space/spinoff-applications.html)
