@@ -1,43 +1,19 @@
-## Welcome to GitHub Pages
+# Key Questions
 
-You can use the [editor on GitHub](https://github.com/melanie-platz/WG7/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/melanie-platz/WG7/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. A global alert system with coordinated responses can help to reduce the impact of disasters and
+disease outbreaks. What components should such a global alert system to combat health risks
+consist of?
+2. How can the “last mile problem” be overcome to create sustainable risk awareness? (The “last mile
+problem” in the health-context denotes the problem to establish the challenging link between per-
+sons in risk situations and relevant information, which can help to combat the risk).
+3. How can medical research implemented in space or in analogues be more efficiently used for
+healthcare on the planet? How can related technology be better utilised (spin-offs)?
+4. How can SGAC/students and young professionals contribute to this topic?
+5. How could UNISPACE+50 or SGAC/students and young professionals contribute to this topic?
 
 
 # Mandatory Prereadings
+
 1. Source about the Problem Statement to introduce Key Questions (1) and (2)
 WHO - Environmental health in emergencies
 http://www.who.int/environmental_health_emergencies/en/
@@ -48,9 +24,10 @@ ESA - Spin-offs: when space tech falls to Earth (https://www.epo.org/news-issues
 UN Commitee on the Peaceful uses of Outer Space - Thematic priority 5: Strengthened space cooperation for global health
 (http://www.unoosa.org/oosa/oosadoc/data/documents/2018/aac.105/aac.1051172_0.html)
 
+
 # Voluntary reading material
 
--ESA - Space for Health Portal (http://www.esa.int/Our_Activities/Preparing_for_the_Future/Space_for_Earth/Space_for_health)
+- ESA - Space for Health Portal (http://www.esa.int/Our_Activities/Preparing_for_the_Future/Space_for_Earth/Space_for_health)
 - ESA - Tempus Pro vital signs monitor for telemedicine through space technology (http://www.esa.int/Our_Activities/Telecommunications_Integrated_Applications/Highlights/Tempus_Pro)
 - Health Business Applications in Cooperation with ESA (https://business.esa.int/projects/theme/health)
 - HOT-OSM: Malaria Elimination Campaign - Updates (https://www.hotosm.org/projects/malaria_elimination_campaign)
