@@ -37,4 +37,9 @@ UN Commitee on the Peaceful uses of Outer Space - Thematic priority 5: Strengthe
 - (http://www.who.int/emergencies/kits/ewars/en/); (see also: http://mathematik.uni-landau.de/EWARS/)
 - Wikiversity - Risk Management (https://en.wikiversity.org/wiki/Risk_Management)
 - Homepage of the UN Expert Focus Group - Space & Global Health (http://at6fui.weebly.com/)
+- WHO’s Early Warning, Alert and Response System (EWARS)
+http://www.who.int/emergencies/kits/ewars/en/ > Link to Key Question 1 in presentation
+- O3B https://en.wikipedia.org/wiki/O3b_Networks > Link to Key Question 2 in presentation
+- Summary of “How Astronaut Health helps us Earthlings”
+https://www.youtube.com/watch?v=nleeEUKoEZM (first part only) > Link to Key Question 3 in presentation
 
